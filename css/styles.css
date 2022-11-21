@@ -1,0 +1,174 @@
+#title{
+  background-color: #f7c66b; 
+}
+
+h1{
+font-family: 'Montserrat', sans-serif;
+font-size: 3.5rem;
+line-height: 1.5;
+color: #b71c1c;
+}
+
+.container-fluid{
+padding: 3% 10% 5%;
+}
+
+/* navigation bar */
+
+.navbar{
+height: 70px;
+padding-bottom: 5rem;
+}
+  
+.navbar-brand{
+font-family: 'Montserrat', sans-serif;
+font-size: 1.5rem;
+font-weight: bold;
+color: rgb(255, 255, 253);
+}
+
+.navitems{
+  font-weight: bolder;
+}
+/* download buttons */
+
+.downloadbuttons{
+margin: 5% 3% 5% 0;
+}
+
+/* Product image */
+.productimage{
+height: 22rem;
+width: 16.3rem;
+border-radius: 5%;
+}
+
+/* Features */
+#Features{
+  margin: 7% 3.5%;
+  text-align: center;
+} 
+
+.icon{
+  height: 160px;
+  width: 160px;
+}
+
+.icon:hover{
+  background-color: antiquewhite;
+}
+
+h3{
+  font-weight: bolder ;
+}
+
+p{
+  font-family: 'Montserrat', sans-serif;
+}
+
+/* testimonials */
+.testimonial-img1{
+  height: 20rem;
+  width: 18.5rem;
+  padding:1rem 0;
+}
+.testimonial-img2{
+  height:22rem;
+  width: 19rem;
+  padding-left: 0;
+}
+
+
+/* carousel-item  */
+.carousel-item {
+  text-align: center;
+  height: 450px;
+  padding: 3%;
+}
+
+h4{
+  font-family: 'Pacifico', cursive;
+  font-weight: bolder;
+  padding-bottom: 8px;
+}
+
+/* breeds */
+.card{
+  margin-bottom: 1rem;
+}
+.breeds-row{
+  margin: 4rem;
+}
+.card:hover{
+  box-shadow: 10px 5px 5px grey;
+}
+.card-body{
+  text-align: center;
+}
+
+h5{
+  font-weight: bolder;
+}
+
+/* media partners */
+
+#mediapartners{
+  margin-bottom: 50px;
+}
+
+.media-heading{
+  text-align: center;
+  padding: 1.5rem;
+  color: #000
+}
+
+#carouselExampleControls{
+  height: 21rem;
+  padding: 0.75 0 0.75 0
+}
+.partner1r{
+  height: 14rem;
+  width: 20rem;
+}
+.partner2{
+  width: 20rem;
+  padding-top: 7.5px;
+}
+.partner3{
+  height: 15rem;
+  width: 16rem;
+}
+
+/* pleading div */
+.pleading-div{
+  height: 18rem;
+  text-align: center;
+  padding-top:2rem 1rem 3rem ;
+}
+
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 1rem;
+  line-height: 3rem;
+}
+
+.dwld-btn{
+  margin: 5% 3% 5% 0;
+}
+
+
+/* footer */
+#footer{
+  height: 13rem;
+  text-align: center;
+  padding: 4.5rem;
+  background-color: #f7c66b;
+}
+
+.brand:hover{
+  color: #fff;
+}
+
+.brand{
+  padding: 1rem;
+}
